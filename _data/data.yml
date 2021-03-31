@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ying Xiong
@@ -16,7 +16,7 @@ sidebar:
     phone (Canada): +1 4163058290
     phone (China): +86 18918967979
     website: xiongy15.github.io #do not add http://
-    linkedin: Ying (Jessica) Xiong
+    linkedin: Ying Xiong
     github: xiongy15
     #telegram: # add your nickname without '@' sign
     #gitlab:
@@ -149,16 +149,16 @@ skills:
 
     toolset:
       - name: R
-        level: 95%
+        level: 98%
 
       - name: Excel
-        level: 93%
+        level: 95%
 
       - name: PowerPoint
-        level: 92%
+        level: 93%
 
       - name: Word
-        level: 92%
+        level: 93%
 
       - name: SQL
         level: 85%
