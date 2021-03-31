@@ -9,14 +9,14 @@ sidebar:
     # Profile information
     name: Ying Xiong
     #tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: copy.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jessicaxiong.xy@gmail.com
     phone (Canada): +1 4163058290
     phone (China): +86 18918967979
     website: xiongy15.github.io #do not add http://
-    linkedin: alandoe
+    linkedin: Ying (Jessica) Xiong
     github: xiongy15
     #telegram: # add your nickname without '@' sign
     #gitlab:
@@ -62,12 +62,9 @@ education:
           - Bullet point
           - Bullet point
 
-
-education:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
+career-profile:
+    title: Career Profile
+    summary: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
