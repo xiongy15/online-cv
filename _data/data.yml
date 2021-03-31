@@ -40,7 +40,7 @@ sidebar:
       - item: Watch Movies/Anime
         link:
 
-      - item: Puzzling
+      - item: Puzzling & Sudoku
         link:
 
       - item: Cooking
@@ -50,32 +50,15 @@ sidebar:
         link:
 
 education:
-    - degree: Bcom in Finance & Economics; Statistics
+    - degree: Bcom in Finance & Economics; Statistical Science
       university: University of Toronto
       time: 2018 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-
-career-profile:
-    title: Career Profile
-    summary: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - GPA: 3.95/4.0 (High Distinction); Dean's List for 2018-2019 & 2019-2020 academic year
+        Relevant Coursework: Financial Accounting; Financial Markets; Marketing; Management Accounting; 
+        Operations Management; Capital Markets Theory; Prob, Statistics and Data Analysis; Corporate Finance; 
+        Investments; Methods of Data Analysis; Fixed Income Security; International Monetary Economics; 
+        International Trades; Strategic Management; Risk Management; Data Visualization
       
 experiences:
     - role: Lead Developer
@@ -104,17 +87,8 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
+
 projects:
     title: Projects
     intro: >
