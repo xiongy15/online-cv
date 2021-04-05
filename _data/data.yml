@@ -87,8 +87,8 @@ projects:
     intro: >
       I include the five most recent projects I have done. They come from aspects including Economics, 
       Finance, Statistics and Data Visualization. 
-      There are more projects listed on my website. Feel free to check those out. (https://xiongy15.github.io/project/)
-      
+      There are more projects listed on my website. Feel free to check those out. <a href="#">https://xiongy15.github.io/project/</a>
+
     assignments:
       - title: Japan:Flee from Deflation
         link: "assets/Japan - Flee from Deflation.pdf" 
