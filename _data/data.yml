@@ -83,28 +83,29 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
+    intro: > I include the five most recent projects I have done. They come from aspects including Economics, Finance, Statistics and Data Visualization. 
+    There are more projects listed in my website. Feel free to check those out.
       
     assignments:
       - title: Japan:Flee from Deflation
         link: "assets/Japan - Flee from Deflation.pdf" 
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Economics: An analysis on Japan's deflation signal with a recommendation for the government to avoid the slip back."
 
       - title: Canadian Pizza Industry
         link: "assets/Canadian Pizza Industry in COVID.pdf"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Economics: A analysis on Candian Pizza Industry in COVID-19 with a recommendation for the government to minimize the impact."
 
-      - title: U.S. Election Prediction
-        link: "assets/Hope is on Joe Biden, Pressure is on Donald Trump.pdf"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Canadian Federal Election
+        link: "assets/Investigating the Effect of Turnout on Canadian Federal Election.pdf"
+        tagline: "Statistics: A analysis that investigates responsive the Effect of Turnout on Canadian Federal Election."
 
       - title: Fertility Rate in Canada
         link: "assets/Investigation of the Fertility Rate in Canada.pdf"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Statistics: A analysis on the Fertility Rate in Canada."
 
-      - title: Combined Systolic Blood Pressure in the U.S.
-        link: "assets/Analysis of combined systolic blood pressure reading in the U.S.pdf"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Bike Insurance in Toronto
+        link: "assets/How Bike Insurance in Toronto is Priced.pdf"
+        tagline: "Data Visualization: An article that provide suggestions to bike insurance companies in Toronto on pricing."
 
 
 
