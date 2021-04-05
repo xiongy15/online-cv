@@ -54,54 +54,44 @@ education:
       university: University of Toronto
       time: 2018 - 2022
       details: |
-        - GPA: 3.95/4.0 (High Distinction); Dean's List for 2018-2019 & 2019-2020 academic year
-        Relevant Coursework: Financial Accounting; Financial Markets; Marketing; Management Accounting; 
+        GPA: 3.95/4.0 (High Distinction); Dean's List for 2018-2019 & 2019-2020 academic year
+        - Relevant Coursework: 
+        Financial Accounting; Financial Markets; Marketing; Management Accounting; 
         Operations Management; Capital Markets Theory; Prob, Statistics and Data Analysis; Corporate Finance; 
         Investments; Methods of Data Analysis; Fixed Income Security; International Monetary Economics; 
         International Trades; Strategic Management; Risk Management; Data Visualization
       
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Mentor
+      time: 2020 - Present
+      company: University of Toronto Statistics Department
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        I joined the mentorship program in my third year. As a mentor, I provided instructions on career exploration and social & personal development 
+        in one-to-one settings to the first-year students. I was obligated to conduct meetings with them and help them solve problems related to academics 
+        and social life. After appointments, I connected mentees with various resources including study groups, academic advisors, clubs and wellness 
+        center. During the tenure, I designed and held two large online career events via Zoom and received positive responses. 
+
+    - role: Project Coordinator
+      time: 2018.3 - 2018.7
+      company: Funny World, Shenzhen (China)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        As an intern, I engaged and gained experience in various departments. In the finance department,I analyzed project costs and forecasted profits 
+        based on market trends and the performance of similar products. Liasing with software and hardware engineers, I helped wrote product manuals, 
+        tested prototype equipment and identified deficiencies. During the tenure, I designed and finished a proposal of a prototype for a silk weaving 
+        AR educational program.
 
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Japan: Flee from Deflation
+        link: "assets/FINAL draft (Ying Xiong).pdf"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
-        link: "#"
+        link: "#assets/FINAL draft (Ying Xiong).pdf"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
