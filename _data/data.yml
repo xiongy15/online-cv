@@ -83,7 +83,9 @@ experiences:
 
 projects:
     title: Projects
-    intro: > I include the five most recent projects I have done. They come from aspects including Economics, Finance, Statistics and Data Visualization. 
+    intro: > 
+    I include the five most recent projects I have done. They come from aspects including Economics, Finance, 
+    Statistics and Data Visualization. 
     There are more projects listed in my website. Feel free to check those out.
       
     assignments:
