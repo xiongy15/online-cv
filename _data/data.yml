@@ -86,24 +86,24 @@ projects:
     intro: >
       
     assignments:
-      - title: Japan
-        link: "assets/FINAL draft (Ying Xiong).pdf"
+      - title: Japan:Flee from Deflation
+        link: "assets/Japan - Flee from Deflation.pdf" 
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#assets/FINAL draft (Ying Xiong).pdf"
+      - title: Canadian Pizza Industry
+        link: "assets/Canadian Pizza Industry in COVID.pdf"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
+      - title: U.S. Election Prediction
+        link: "assets/Hope is on Joe Biden, Pressure is on Donald Trump.pdf"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
+      - title: Fertility Rate in Canada
+        link: "assets/Investigation of the Fertility Rate in Canada.pdf"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
+      - title: Combined Systolic Blood Pressure in the U.S.
+        link: "assets/Analysis of combined systolic blood pressure reading in the U.S.pdf"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
