@@ -63,14 +63,24 @@ education:
         International Trades; Strategic Management; Risk Management; Data Visualization
       
 experiences:
+    - role: Statistics Intern
+      time: 2021.5 - Present
+      company: Shanghai Banking Bureau
+      details: |
+        I worked in the Statistics department in the Shanghai Banking Bureau since the start of the 2021 summer. As an intern, I organized the 2020 
+        monthly/quarterly/annual reports on the Banking and Insurance Industry in the first week. I learned a lot of in-depth knowledge by summarizing 
+        the analysis. Meanwhile, I helped the team produce the latest monthly/quarterly reports by collecting and updating data for further modeling 
+        and analysis. I'm also in charge of conducting negotiations with the other departments for feedback on changes in the reporting measures. 
+        
     - role: Mentor
-      time: 2020 - Present
+      time: 2020.9 - 2021.4
       company: University of Toronto Statistics Department
       details: |
         I joined the mentorship program in my third year. As a mentor, I provided instructions on career exploration and social & personal development 
         in one-to-one settings to the first-year students. I was obligated to conduct meetings with them and help them solve problems related to academics 
         and social life. After appointments, I connected mentees with various resources including study groups, academic advisors, clubs and the wellness 
-        center. I designed and held two sizeable online career events via Zoom during the tenure and received positive responses. 
+        center. I designed and held two sizeable online career events via Zoom during the tenure and received positive responses, with over 100 participants 
+        for each activity. 
         
     - role: Project Coordinator
       time: 2018.3 - 2018.7
@@ -94,21 +104,21 @@ projects:
         link: "assets/Japan - Flee from Deflation.pdf" 
         tagline: "Economics: An analysis of Japan's deflation signal with a recommendation for the government on how to avoid the slip back."
 
-      - title: Canadian Pizza Industry
-        link: "assets/Canadian Pizza Industry in COVID.pdf"
-        tagline: "Economics: An analysis of Candian Pizza Industry in COVID-19 with a recommendation for the government on impact minimization."
+      - title: Market Liquidity and the Role of Fed Intervention
+        link: "assets/Market Liquidity and the Role of Fed Intervention.pdf"
+        tagline: "Finance: An analysis of the liquidity risks through three well-known liquidity crises in the past with assessments on the Fed Interventions."
 
       - title: Canadian Federal Election
         link: "assets/Investigating the Effect of Turnout on Canadian Federal Election.pdf"
         tagline: "Statistics: An analysis that investigates the effect of Turnout on Canadian Federal Election."
 
-      - title: Fertility Rate in Canada
-        link: "assets/Investigation of the Fertility Rate in Canada.pdf"
-        tagline: "Statistics: An analysis of the Fertility Rate in Canada."
+      - title: Gender Bias in Black Saber Software
+        link: "assets/Investigation on Gender Bias (Black Saber Software).pdf"
+        tagline: "Statistics: An analysis that investigates the existence of gender bias in a fictional company named Black Saber Software (real-world data)."
 
-      - title: Bike Insurance in Toronto
-        link: "assets/How Bike Insurance in Toronto is Priced.pdf"
-        tagline: "Data Visualization: An article that provides suggestions to bike insurance companies in Toronto on pricing."
+      - title: Prevention of Fatal Collision in GTA
+        link: "<a href="https://xuziyuan18.wixsite.com/toronto-roadsafety</a>">Prevention of Fatal Collision in GTA</a>"
+        tagline: "Data Visualization: A website on road safety problems in the Great Toronto Area (include data visualization)."
 
 
 
