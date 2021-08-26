@@ -78,21 +78,22 @@ education:
 experiences:
     - role: Project Intern
       time: 2021.7 - 2021.9
-      company: Shanghai Banking Bureau
+      company: Pramerica FOSUN
       details: |
-        I worked in the Statistics department in the Shanghai Banking Bureau since the start of the 2021 summer. As an intern, I organized the 2020 
-        monthly/quarterly/annual reports on the Banking and Insurance Industry in the first week. I learned a lot of in-depth knowledge by summarizing 
-        the analysis. Meanwhile, I helped the team produce the latest monthly/quarterly reports by collecting and updating data for further modeling 
-        and analysis. I'm also in charge of conducting negotiations with the other departments for feedback on changes in the reporting measures. 
-        
+        I joined Pramerica FOSUN as a project intern in the Asset-liability Management Team. During the inrernship, I assisted in promoting the construction 
+        of asset and liability management system and optimized the asset and liability matching model. As the team devloped the idea of an alternative model 
+        that can reflect the internal structure of interest rate risk and corresponding effects on corportate values. With both the new constructed and 
+        original models, I help complete the reporting work of ALM to the regulatory commission. Moreover, I studied the impact of Solvency II (and some other 
+        policies) on the assets and liabilities of life insurance companies
+   
     - role: Statistics Intern
       time: 2021.5 - 2021.7
-      company: Shanghai Banking Bureau
+      company: China Banking Regulatory Commission
       details: |
-        I worked in the Statistics department in the Shanghai Banking Bureau since the start of the 2021 summer. As an intern, I organized the 2020 
-        monthly/quarterly/annual reports on the Banking and Insurance Industry in the first week. I learned a lot of in-depth knowledge by summarizing 
-        the analysis. Meanwhile, I helped the team produce the latest monthly/quarterly reports by collecting and updating data for further modeling 
-        and analysis. I'm also in charge of conducting negotiations with the other departments for feedback on changes in the reporting measures. 
+        I worked in the Statistics department in the China Banking Regulatory Commission (Shanghai) since the start of the 2021 summer. As an intern, I 
+        organized the 2020 monthly/quarterly/annual reports on the Banking and Insurance Industry in the first week. I learned a lot of in-depth knowledge 
+        by summarizing the analysis. Meanwhile, I helped the team produce the latest monthly/quarterly reports by collecting and updating data for further 
+        modeling and analysis. I'm also in charge of conducting negotiations with the other departments for feedback on changes in the reporting measures. 
         
     - role: Mentor
       time: 2020.9 - 2021.4
