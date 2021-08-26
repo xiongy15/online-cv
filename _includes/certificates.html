@@ -1,0 +1,20 @@
+
+{% assign certificates = site.data.data.sidebar.certificates %}
+{% if certificates %}
+<div class="certificates-container container-block">
+
+  <h2 class="container-block-title">
+    Certificates
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for certificates in certificates %}
+    <li>
+      {{ certificates.idiom }}
+      <span class="lang-desc">({{ certificates.level }})</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
