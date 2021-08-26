@@ -25,6 +25,13 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
+    
+    certificates:
+      - idiom: SAS Base & SAS Advanced
+        level: 2019.9
+        
+      - idiom: Securities Practitioner Qualification Certificate
+        level: 2021.6
 
     languages:
       - idiom: Chinese - Mandarin
@@ -35,7 +42,7 @@ sidebar:
 
       - idiom: Japanese
         level: Basic
-
+   
     interests:
       - item: Watch Movies/Anime
         link:
@@ -51,13 +58,16 @@ sidebar:
         
       - item: Calligrapy
         link:
+        
+      - item: Musical
+        link:
 
 education:
     - degree: Bcom in Finance & Economics; Statistical Science
       university: University of Toronto
       time: 2018 - 2022
       details: |
-        GPA: 3.95/4.0 (High Distinction); Dean's List for 2018-2019 & 2019-2020 academic year
+        GPA: 3.95/4.0 (High Distinction); Dean's List for 2018-2021 academic years
         Relevant Coursework: 
         <br />
         Financial Accounting; Financial Markets; Marketing; Management Accounting; 
@@ -66,8 +76,17 @@ education:
         International Trades; Strategic Management; Risk Management; Data Visualization
       
 experiences:
+    - role: Project Intern
+      time: 2021.7 - 2021.9
+      company: Shanghai Banking Bureau
+      details: |
+        I worked in the Statistics department in the Shanghai Banking Bureau since the start of the 2021 summer. As an intern, I organized the 2020 
+        monthly/quarterly/annual reports on the Banking and Insurance Industry in the first week. I learned a lot of in-depth knowledge by summarizing 
+        the analysis. Meanwhile, I helped the team produce the latest monthly/quarterly reports by collecting and updating data for further modeling 
+        and analysis. I'm also in charge of conducting negotiations with the other departments for feedback on changes in the reporting measures. 
+        
     - role: Statistics Intern
-      time: 2021.5 - Present
+      time: 2021.5 - 2021.7
       company: Shanghai Banking Bureau
       details: |
         I worked in the Statistics department in the Shanghai Banking Bureau since the start of the 2021 summer. As an intern, I organized the 2020 
