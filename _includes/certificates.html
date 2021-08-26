@@ -8,13 +8,13 @@
   </h2>
 
   <ul class="list-unstyled interests-list">
-    {%for certificates in certificates %}
+    {%for certificate in certificates %}
     <li>
-      {{ certificates.idiom }}
-      <span class="lang-desc">({{ certificates.level }})</span>
+      {{ certificate.idiom }}
+      <span class="lang-desc">({{ certificate.level }})</span>
     </li>
     {% endfor %}
   </ul>
-
+  
 </div><!--//interests-->
 {% endif %}
